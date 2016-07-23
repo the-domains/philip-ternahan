@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Philip Ternahan]]></title>
+        <description><![CDATA[Philip Ternahan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 23:45:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life in Ventura County]]></title>
+            <description><![CDATA[<article><h1>Life in Ventura County</h1><p>This picture was taken on a cell phone and provides a moment of quietness without any apparent human activity</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/366f8e9458d32fb77aeba366669f9e3c/croprotate.jpg?cropheight=2434&cropwidth=4320&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcb17c7e8-ff56-4800-99e4-bb703e5b509a.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb17c7e8-ff56-4800-99e4-bb703e5b509a.jpg</link>
+            <guid isPermaLink="false">8e4cd453-8ebf-4167-b38e-329773da135b</guid>
+            <pubDate>Sat, 23 Jul 2016 23:45:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
